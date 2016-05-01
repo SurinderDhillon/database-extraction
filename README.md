@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Database Extraction for Mysql}
+  <content><![CDATA
+# Database Extraction for Mysql
 TODO: IT will extract all databases into different files and generate one zip file.
 Installation
 ## Installation & Usage
@@ -16,5 +16,5 @@ TODO: Created by Surinder Singh
 ## License
 TODO: Opensource
 ]]></content>
-  <tabTrigger>readme</tabTrigger>
+  <tabTrigger>README</tabTrigger>
 </snippet>
